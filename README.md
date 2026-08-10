@@ -25,6 +25,7 @@ pkg install unzip
 ```
 
 <h3>3️⃣ Install node JS</h3>
+
 ```
 pkg install nodejs
 ```
