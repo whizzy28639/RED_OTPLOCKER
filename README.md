@@ -24,31 +24,36 @@ pkg update && pkg upgrade
 pkg install unzip
 ```
 
-<h3>3️⃣ Clone the Repository</h3>
+<h3>3️⃣ Install node JS</h3>
+```
+pkg install nodejs
+```
+
+<h3>4️⃣ Clone the Repository</h3>
 
 ```
 git clone https://github.com/whizzy28639/RED_OTPLOCKER.git
 ```
 
-<h3>4️⃣ Enter the Repository</h3>
+<h3>5️⃣ Enter the Repository</h3>
 
 ```
 cd RED_OTPLOCKER
 ```
 
-<h3>5️⃣ Extract the ZIP File</h3>
+<h3>6️⃣ Extract the ZIP File</h3>
 
 ```
 unzip RED_OTPLOCK.zip
 ```
 
-<h3>6️⃣ Enter the Extracted Folder</h3>
+<h3>7️⃣ Enter the Extracted Folder</h3>
 
 ```
 cd RED_OTPLOCK
 ```
 
-<h3>7️⃣ Start the Tool</h3>
+<h3>8️⃣ Start the Tool</h3>
 
 ```
 node index.js
