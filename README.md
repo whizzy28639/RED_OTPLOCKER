@@ -8,33 +8,33 @@
 
 📥 Installation
 
-1️⃣ Update Termux
+h2 1️⃣ Update Termux
 
-pkg update && pkg upgrade
+```pkg update && pkg upgrade```
 
 2️⃣ Install ZIP
 
-pkg install unzip
+```pkg install unzip```
 
 3️⃣ Clone the Repository
 
-git clone https://github.com/whizzy28639/RED_OTPLOCKER.git
+```git clone https://github.com/whizzy28639/RED_OTPLOCKER.git```
 
 4️⃣ Enter the Repository
 
-cd RED_OTPLOCKER
+```cd RED_OTPLOCKER```
 
 5️⃣ Extract the ZIP File
 
-unzip RED_OTPLOCK.zip
+```unzip RED_OTPLOCK.zip```
 
 6️⃣ Enter the Extracted Folder
 
-cd RED_OTPLOCK
+```cd RED_OTPLOCK```
 
 7️⃣ Start the Tool
 
-node index.js
+```node index.js```
 
 ---
 
